@@ -3,3 +3,4 @@
 # R specific : apckages
 **/..Rcheck
 **/.vscode
+.Rproj.user/*

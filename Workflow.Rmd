@@ -1,0 +1,51 @@
+---
+title: "Workflow"
+author: "HM MM"
+date: "2024-12-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## I. Simulations
+
+### I.1 Simulate data
+
+### I.2 Estimate locreg
+
+### I.3 Estimate mean
+
+### I.4 Mean estimates normal QQ Plots
+
+### I.5 Estimate true autocov
+
+### I.6 Estimate autocov
+
+### I.7 Final charts
+
+![autocov_risk_far_mfBm_d4.png](./paper_graphs/autocov_risk_far_mfBm_d4.png)
+
+![locreg_far_mfBm_d2.png](./paper_graphs/locreg_far_mfBm_d2.png)
+
+![](./paper_graphs/mean_risk_far_mfBm_d2.png)
+
+![autocov_risk_far_mfBm_d4.png](./paper_graphs/autocov_risk_far_mfBm_d4.png)
+![mean_standardised_qq_far_mfBm_t=0.2_d2.png](./paper_graphs/mean_standardised_qq_far_mfBm_t=0.2_d2.png)
+
+
+![mean_standardised_qq_far_mfBm_t=0.4_d2.png](./paper_graphs/mean_standardised_qq_far_mfBm_t=0.4_d2.png)
+![mean_standardised_qq_far_mfBm_t=0.7_d2.png](./paper_graphs/mean_standardised_qq_far_mfBm_t=0.7_d2.png)
+
+![mean_standardised_qq_far_mfBm_t=0.8_d2.png](./paper_graphs/mean_standardised_qq_far_mfBm_t=0.8_d2.png)
+
+
+## II. Real data application
+
+### II.1 Voltage curves mean estimation
+
+
+### II.2 Real data estimates graphes
+
+
